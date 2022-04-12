@@ -3,3 +3,5 @@ add first line.
 add second line from github online.
 
 add branch feature2 , this is line for branch feature2.
+
+issue is solved.......
